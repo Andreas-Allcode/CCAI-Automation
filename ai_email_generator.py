@@ -239,7 +239,8 @@ San Francisco, CA 94104"""
 
 <p>Thanks,</p>
 
-<p>Andreas Garcia<br>
+<p>Thanks,<br>
+Andreas Garcia<br>
 Account Executive<br>
 AllCode: <a href="https://allcode.com/">https://allcode.com/</a><br>
 LinkedIn Profile: <a href="https://www.linkedin.com/in/andreas-garcia-0a7963139">www.linkedin.com/in/andreas-garcia-0a7963139</a><br>

@@ -29,9 +29,8 @@ def generate_ai_email(name, company, title, recipient_email):
 
 <p>Would you be open to a brief 15-minute call to discuss how we might help {company} with your technology initiatives?</p>
 
-<p>Thanks,</p>
-
-<p>Andreas Garcia<br>
+<p>Thanks,<br>
+Andreas Garcia<br>
 Account Executive<br>
 AllCode: <a href="https://allcode.com/">https://allcode.com/</a><br>
 LinkedIn Profile: <a href="https://www.linkedin.com/in/andreas-garcia-0a7963139">www.linkedin.com/in/andreas-garcia-0a7963139</a><br>
@@ -50,9 +49,8 @@ San Francisco, CA 94104</p>"""
 
 <p>Would you have 15 minutes to discuss some of the technical challenges you're facing?</p>
 
-<p>Thanks,</p>
-
-<p>Andreas Garcia<br>
+<p>Thanks,<br>
+Andreas Garcia<br>
 Account Executive<br>
 AllCode: <a href="https://allcode.com/">https://allcode.com/</a><br>
 LinkedIn Profile: <a href="https://www.linkedin.com/in/andreas-garcia-0a7963139">www.linkedin.com/in/andreas-garcia-0a7963139</a><br>

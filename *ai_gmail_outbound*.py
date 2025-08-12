@@ -105,7 +105,6 @@ Subject: [real subject line - no HTML tags]
 [email body in HTML format with proper paragraph breaks using <p> tags]
 
 Thanks,
-
 Andreas Garcia
 Account Executive
 AllCode: https://allcode.com/
@@ -191,8 +190,8 @@ San Francisco, CA 94104"""
     <p>Would you have 15 minutes for a quick call to discuss your current setup and explore potential optimizations?</p>
     
     <div class="signature">
-        <p>Thanks,</p>
-        <p><strong>Andreas Garcia</strong><br>
+        <p>Thanks,<br>
+        <strong>Andreas Garcia</strong><br>
         Account Executive<br>
         <strong>AllCode:</strong> <a href="https://allcode.com/">https://allcode.com/</a><br>
         <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/andreas-garcia-0a7963139">www.linkedin.com/in/andreas-garcia-0a7963139</a><br>
